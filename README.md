@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan León</h1>
 <h3 align="center">A passionate frontend developer from the Spain, I consider myself a self-taught person, in the world of computing, especially in programming.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbry&label=Profile%20views&color=0e75b6&style=flat" alt="luisbry" /> </p>
 
